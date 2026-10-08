@@ -1,0 +1,15 @@
+[
+    {
+        "case_name": "智能地址解析_high级别",
+        "env": "pre",
+        "data": {
+            "key": "test_key_123",
+            "pid": "",
+            "args": "",
+            "revision": "",
+            "searchId": "",
+            "address_analysis": "high",
+            "debug": "1"
+        }
+    }
+]
